@@ -7,7 +7,7 @@
 * [快速开始](Tutotials/gs/README.md)
   * [设置环境](Tutotials/gs/setting.md)
   * [创建第一个项目](Tutotials/gs/first project.md)
-  * [编辑页面模板](Tutotials/gs/.md)
+  * [编辑页面模板](Tutotials/gs/template.md)
   * [页面添加可编辑内容](Tutotials/gs/.md)
   * [全球文档：夸页面共享内容](Tutotials/gs/.md)
   * [将资源推送到浏览器](Tutotials/gs/.md)
